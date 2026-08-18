@@ -43,4 +43,6 @@ echo "Average Grade: " . $nablo_average . "<br>";
 echo "Remarks: " . $nablo_remarks . "<br>";
 echo "Letter Grade: " . $nablo_letter_grade;
 
+
+echo "Testing";
 ?>
